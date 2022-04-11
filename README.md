@@ -1,1 +1,1 @@
-# Учебный проект на NextJS
+# Pet project with NextJS
